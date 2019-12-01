@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oppgave-2/static/css/main.d869a76a.chunk.css",
+    "main.js": "/oppgave-2/static/js/main.6e0b3cf7.chunk.js",
+    "main.js.map": "/oppgave-2/static/js/main.6e0b3cf7.chunk.js.map",
+    "runtime-main.js": "/oppgave-2/static/js/runtime-main.f1a40d71.js",
+    "runtime-main.js.map": "/oppgave-2/static/js/runtime-main.f1a40d71.js.map",
+    "static/js/2.92181a1f.chunk.js": "/oppgave-2/static/js/2.92181a1f.chunk.js",
+    "static/js/2.92181a1f.chunk.js.map": "/oppgave-2/static/js/2.92181a1f.chunk.js.map",
+    "index.html": "/oppgave-2/index.html",
+    "precache-manifest.9bc7d7ac072a43cc1477ce0fde9f9906.js": "/oppgave-2/precache-manifest.9bc7d7ac072a43cc1477ce0fde9f9906.js",
+    "service-worker.js": "/oppgave-2/service-worker.js",
+    "static/css/main.d869a76a.chunk.css.map": "/oppgave-2/static/css/main.d869a76a.chunk.css.map",
+    "static/media/logo.svg": "/oppgave-2/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1a40d71.js",
+    "static/js/2.92181a1f.chunk.js",
+    "static/css/main.d869a76a.chunk.css",
+    "static/js/main.6e0b3cf7.chunk.js"
+  ]
+}
